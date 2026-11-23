@@ -1,0 +1,2 @@
+# Sentinel - Linux Process Supervisor
+Sentinel is a Linux process supervisor built entirely in C. Sentinel is able to monitor processes, reset processes on failure, monitor their health live and provide operational data on said processes. This is a project mainly built to help build skills in C, Linux processes, network communication and DevOps. 
